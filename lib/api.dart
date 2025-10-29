@@ -1,0 +1,1 @@
+const apiWeather = '70e7f44c12cba5ff3acb53396b5fbef8';
